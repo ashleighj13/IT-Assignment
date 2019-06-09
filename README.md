@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### My Profile
 
-You can use the [editor on GitHub](https://github.com/ashleighj13/IT-Assignment/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Name: Ashleigh Thompson
+Student No.: s3688994
+Email Address: s3688994@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! My name is Ashleigh and I am a 32 year old university student studying a Bachelor of Business (Financial Planning) to become a Financial Adviser.
 
-### Markdown
+I currently work full time as a Paraplanner at a local Financial Planning firm.  This involves preparing and writing Statement of Advice documents amongst other things.  I have been in this job for 3 years and it’s the best job I’ve had so far (and I’ve had a few different jobs in real estate and bookkeeping).  I’ve finally found a career I’m passionate about.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am married to an amazing husband and have 2 beautiful daughters, Sienna (10) and Chloe (7).  We live in a small town in tropical North Queensland, called Mackay.  I’ve lived here my entire life.  Some people know Mackay as it’s typically referred to as the gateway to the Whitsundays and Great Barrier Reef.  Cruising the Whitsundays is a definite must-do if you’re visiting the area!
 
-```markdown
-Syntax highlighted code block
+We have an interesting household of our family of 4, plus 2 dogs (a Mini Dachshund and a Cane Corso Italian Mastiff), a Wheatbelt Stimson python and a goldfish.  Our weekends are generally filled with beach and camping trips, attending the kids sport (netball and gymnastics) and meeting up with friends and family.  I wish I could say I had a hobby or favourite pastime but who has time for that between all of this!!
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ashleighj13/IT-Assignment/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
