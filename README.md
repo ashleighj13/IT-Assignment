@@ -27,7 +27,7 @@ Currently, my experience is pretty limited in the wide world that is IT.  I expe
 
 ### Ideal Job
 
-[Link](https://www.seek.com.au/job/39188139?searchrequesttoken=b470d624-2697-40c4-b6e7-17930e74d0a2&type=standard)
+<a href="https://www.seek.com.au/job/39188139?searchrequesttoken=b470d624-2697-40c4-b6e7-17930e74d0a2&type=standard">My Ideal Job - Advertisement</a>
 
 <img src="Job Advertisement.JPG">
 
@@ -39,9 +39,15 @@ Although I am only part way through my degree, I hope to have to opportunity to 
 
 ### Personal Profile
 
+Myer Briggs Results:
+
 <img src="MyerBriggs Results.JPG">
 
+Learning Style Results:
+
 <img src="LearningStyle Results.JPG">
+
+Big 5 Personality Test Results:
 
 <img src="Big5Test Results.JPG">
 
@@ -50,17 +56,20 @@ The results of these tests told me a lot of things I already know about myself, 
 
 ### Project Idea
 
-Pet Tracking Microchip
+<b>Pet Tracking Microchip</b>
 
-Overview
+<u>Overview</u>
+
 In November 2018, my dog escaped from our grandparents’ house while we were away on holidays.  Unfortunately in the process of digging under the fence, he managed to pull his collar off.  After a few reported sightings from the community and many, many hours of searching for him, we never found him.  The one thing that I kept thinking about at that time was “if only his microchip had a GPS (Global Positioning System) tracker that would allow us to track him via an App on our phone just like Find My iPhone”.  This is what has led me to the idea of a physical microchip and device application for the purpose of tracking animals.
 
-Motivation
+<u>Motivation</u>
+
 The RSPCA reports that Australia is one of the largest pet ownership countries in the world, with about 62% of Australians owning pets.  Currently there is estimated to be approximately 24 million pets owned in Australia.  In 2017/18, the RSPCA reported to have received 93,297 dogs and cats through their facilities as a result of surrender or lost pets and this does not account for the thousands of pets that likely go missing or are stolen and never found.
 
 Although trackers are currently available for animals in the form of collars, a solution is not yet available for animals that are not wearing collars at the time they go missing.  A device that’s able to be permanently attached to the pet that’s difficult to remove will be incredible useful for pet owners to track their animals, even if it is just for body retrieval.  
 
-Description
+<u>Description</u>
+
 The system would need to be created in 2 parts.  The first being a microchip type device that could be implanted under the skin just like the typical scannable microchip currently available for animals.  The second would be an application that’s downloadable on a device such as a mobile phone and computer.
 
 The microchip would need to be very small in size, easy to insert and relatively pain free for the animal.  If it can be incorporate with the scannable microchip available now, that would be even better.  The chip would need to be able to let off signals or pings that’s able to be tracked via the application by the pet owner.
@@ -73,23 +82,26 @@ This would save the owner time as well as the resources of the RSPCA or local co
 
 Unfortunately, this type of system is likely to be costly which would deter some pet owners.  So although it would reduce the number of lost animals that end up in pounds, RSPCA or even pass away, it would not be a complete solution.  However, I believe there’s definitely a market for this type of system. 
 
-Tools and Technologies
+<u>Tools and Technologies</u>
+
 Currently pet microchips are made from bioglass that are about the size of a grain of rice, that encapsulates a radio-frequency transponder.  The size and shape make it easy to be inserted under the skin, generally by a veterinarian.  To ensure this process is not affected, the GPS component of the chip would need to be incredible small.
 
 The problem with this idea is that generally GPS requires a battery source to function.  To have this chip run permanently, the GPS would need to be designed without the need of a battery or alternatively another signal-releasing technology would need to be created to allow the device to be functional in this way.
 
 The application would be the easy part really, as it would require something similar to a Find My iPhone functionality but with data input allowances.  The application would need to be available for both iOS, Android and Microsoft.
 
-Skills Required
+<u>Skills Required</u>
+
 There would need to be a few different areas of expertise involved in this project including scientists to develop a way of incorporating a rechargeable power source that will not affect the wellbeing of the animal and IT experts to create an application that will be compatible with the new technology.
 
 If new technology and the power source is a large issue, the project will not be feasible as the costs would become astronomical.  However, these days, this type of technology may already be in the process of being created!
 
-Outcome
+<u>Outcome</u>
+
 If the project is successful, pet owners will be able to find their pets no matter whether they are alive, passed away or stolen.  Less time will be wasted searching, visiting vets and putting up flyers! There will also be less pets in the pound and with RSPCA which will reduce the load on these services.  I know I would purchase this system for my current pets so as never to go through the loss of a pet again!
 
 
-Reference List
+<u>Reference List</u>
 
 RSPCA Knowledgebase, https://kb.rspca.org.au/knowledge-base/how-many-pets-are-there-in-australia/
 30 April 2019, viewed 9 June 2019.
