@@ -29,7 +29,7 @@ Currently, my experience is pretty limited in the wide world that is IT.  I expe
 
 [Link](https://www.seek.com.au/job/39188139?searchrequesttoken=b470d624-2697-40c4-b6e7-17930e74d0a2&type=standard)
 
-<img src="Job Advertisement.jpg">
+<img src="Job Advertisement.JPG">
 
 After I have completed the Bachelor of Business (Financial Planning), I aim to become a Financial Adviser.  If I were to be looking for a job at that time, I’d be looking at a role as per this job advertisement.  I would be looking for a financial adviser role in an established office that is well known and respected in this area of expertise.  What appeals to me most is the mention of compliance.  This is of upmost importance when it comes to this type of career.  
 
@@ -39,11 +39,11 @@ Although I am only part way through my degree, I hope to have to opportunity to 
 
 ### Personal Profile
 
-<img src="MyerBriggs Results">
+<img src="MyerBriggs Results.JPG">
 
-<img src="LearningStyle Results">
+<img src="LearningStyle Results.JPG">
 
-<img src="Big5Test Results">
+<img src="Big5Test Results.JPG">
 
 The results of these tests told me a lot of things I already know about myself, for example, that I am a good organiser, that I am a social person that generally needs appreciation from other people.  I am a caring person that is empathetic to others and I love to help.  However, I do feel like they outlined some areas that I need improvement on.  In a team environment, I need to be able to take on and respect others’ ideas and contributions.  Just because I think something should be done a particular way, doesn’t make it right.  When forming and working within a team, I need to keep this in mind.  I will endeavour to be open-minded and respect their ideas.
 
