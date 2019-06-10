@@ -41,15 +41,15 @@ Although I am only part way through my degree, I hope to have to opportunity to 
 
 ### Personal Profile
 
-Myer Briggs Results:
+Myers Briggs Results via 16Personalities.com:
 
 <img src="MyerBriggs Results.JPG">
 
-Learning Style Results:
+Learning Style Results via EducationPlanner.org:
 
 <img src="LearningStyle Results.JPG">
 
-Big 5 Personality Test Results:
+Big 5 Personality Test Results via Truity:
 
 <img src="Big5Test Results.JPG">
 
@@ -66,7 +66,7 @@ In November 2018, my dog escaped from our grandparents’ house while we were aw
 
 <ins>Motivation</ins>
 
-The RSPCA reports that Australia is one of the largest pet ownership countries in the world, with about 62% of Australians owning pets.  Currently there is estimated to be approximately 24 million pets owned in Australia.  In 2017/18, the RSPCA reported to have received 93,297 dogs and cats through their facilities as a result of surrender or lost pets and this does not account for the thousands of pets that likely go missing or are stolen and never found.
+The RSPCA reports that Australia is one of the largest pet ownership countries in the world, with about 62% of Australians owning pets.  Currently there is estimated to be approximately 24 million pets owned in Australia.  In 2017/18, the RSPCA reported to have received 93,297 dogs and cats through their facilities as a result of surrender or lost pets and this does not account for the thousands of pets that likely go missing or are stolen and never found. (RSPCA, 2019)
 
 Although trackers are currently available for animals in the form of collars, a solution is not yet available for animals that are not wearing collars at the time they go missing.  A device that’s able to be permanently attached to the pet that’s difficult to remove will be incredible useful for pet owners to track their animals, even if it is just for body retrieval.  
 
@@ -105,15 +105,16 @@ If the project is successful, pet owners will be able to find their pets no matt
 
 <ins>Reference List</ins>
 
-RSPCA Knowledgebase, https://kb.rspca.org.au/knowledge-base/how-many-pets-are-there-in-australia/
-30 April 2019, viewed 9 June 2019.
+16Personalities, 2019, <i>Free Personality Test</i>, NERIS Analytics Limited, viewed 9 June 2019, https://www.16personalities.com/free-personality-test
 
-RSPCA https://www.rspca.org.au/facts/annual-statistics-2017-18
+Education Planner, 2019, <i>What's Your Learning Style? 20 Questions</i>, Pennsylvania Higher Education Assistance Agency (PHEAA), viewed 9 June 2019, http://www.educationplanner.org/students/self-assessments/learning-styles-quiz.shtml
 
-PetFinder https://www.petfinder.com/dogs/lost-and-found-dogs/how-pet-microchips-work/
+PetFinder, 2019, <i>How do Pet Microchips Work?</i>, Petfinder, viewed 9 June 2019, https://www.petfinder.com/dogs/lost-and-found-dogs/how-pet-microchips-work/
 
+RSPCA, 2019, <i>Annual Statistics 2017-2018</i>, RSPCA, viewed 9 June 2019, https://www.rspca.org.au/facts/annual-statistics-2017-18
 
+RSPCA, 2019, <i>How many pets are there in Australia?</i>, RSPCA Knowledgebase, viewed 9 June 2019, https://kb.rspca.org.au/knowledge-base/how-many-pets-are-there-in-australia/
 
+Seek Limited, 2019, <i>Financial Planner</i>, Seek Limited, viewed 9 June 2019, https://www.seek.com.au/job/39188139?searchrequesttoken=b470d624-2697-40c4-b6e7-17930e74d0a2&type=standard
 
-
-
+Truity, 2019, <i>The Big Five Personality Test</i>, Truity, viewed 9 June 2019, https://www.truity.com/test/big-five-personality-test
