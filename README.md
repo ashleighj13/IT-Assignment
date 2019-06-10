@@ -1,4 +1,6 @@
-<h1 id="project_title">Ashleigh Thompson</h1>
+<head>
+  <title>Ashleigh Thompson</title>
+</head>
 
 ### My Profile
 
